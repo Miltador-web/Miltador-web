@@ -25,12 +25,7 @@ Curioso sobre resolver problemas e organizar o mundo ao meu redor por meio da te
 <h2 align="center"> ⚡ Apaixonado por tecnologia!</h2>
 
 
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java (versão 17)
-- ![JavaEE](https://img.icons8.com/color/48/000000/java-eclipse.png) Java Enterprise Edition (JEE)
-- ![Java13](https://img.icons8.com/color/48/000000/java.png) Java 13
-- ![JAX-RS](https://img.icons8.com/color/48/000000/api-settings.png) JAX-RS
-- ![JBoss/WildFly](https://img.icons8.com/color/48/000000/wildfly.png) JBoss/WildFly
-- ![Standalone](https://img.icons8.com/dusk/48/000000/server-rack.png) Standalone
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java (versão 17), Java 13, JavaEE, JAX-RS, JBoss/WildFly, Standalone
 - ![EJB](https://img.icons8.com/color/48/000000/enterprise-resource-planning.png) EJB (Enterprise JavaBeans)
 - ![Quarkus](https://img.icons8.com/color/48/000000/quarkus.png) Quarkus
 - ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot
@@ -54,6 +49,7 @@ Curioso sobre resolver problemas e organizar o mundo ao meu redor por meio da te
 - ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS (EC2, S3, ECS)
 - ![SOLID](https://img.icons8.com/color/48/000000/s.png) SOLID
 - ![Design Patterns](https://img.icons8.com/color/48/000000/blueprint.png) Design Patterns
+
 
 
 
