@@ -25,9 +25,7 @@ Curioso sobre resolver problemas e organizar o mundo ao meu redor por meio da te
 <h2 align="center"> ⚡ Apaixonado por tecnologia!</h2>
 
 
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java (versão 17), Java 13, JavaEE, JAX-RS, JBoss/WildFly, Standalone
-- ![EJB](https://img.icons8.com/color/48/000000/enterprise-resource-planning.png) EJB (Enterprise JavaBeans)
-- ![Quarkus](https://img.icons8.com/color/48/000000/quarkus.png) Quarkus
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java (versão 17), Java 13, JavaEE, JAX-RS, JBoss/WildFly, Standalone, EJB (Enterprise JavaBeans), Quarkus
 - ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot
 - ![JPA](https://img.icons8.com/color/48/000000/database-restore.png) JPA (Java Persistence API)
 - ![EclipseLink](https://img.icons8.com/officel/48/000000/eclipse.png) EclipseLink
