@@ -3,7 +3,7 @@
 <h1 align="center"> 👋 Olá, galera!</h1>
 
 ``{
-  "nome": "Milton Junior",
+  "nome": "Milton Junior",\n
   "idade": 24,
   "whatsapp": "31 996093820",
   "experiencia": "4 anos",
