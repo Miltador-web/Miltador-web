@@ -16,9 +16,7 @@
 <br>
 Curioso sobre resolver problemas e organizar o mundo ao meu redor por meio da tecnologia! <br>Sempre em busca de uma nova oportunidade para aprender!<br>
 
-**Você já deu uma olhada no meu 
-
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cabralmiltonjunior/)](https://www.linkedin.com/in/cabralmiltonjunior/)?** 
+**Você já deu uma olhada no meu [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cabralmiltonjunior/)](https://www.linkedin.com/in/cabralmiltonjunior/)?** 
 
  
  <h2 align="center"> ⚡ Projetos Front 👇</h2>
