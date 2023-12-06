@@ -25,7 +25,6 @@ Curioso sobre resolver problemas e organizar o mundo ao meu redor por meio da te
 
 - [Projeto HTML e CSS](https://visionary-gecko-925eb3.netlify.app/)
 
-
 - [Projeto React](https://effervescent-malabi-e58d0c.netlify.app/)
 
 
