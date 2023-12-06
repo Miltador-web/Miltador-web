@@ -20,9 +20,17 @@ Curioso sobre resolver problemas e organizar o mundo ao meu redor por meio da te
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cabralmiltonjunior/)](https://www.linkedin.com/in/cabralmiltonjunior/)?** 
 
+ 
+ <h2 align="center"> ⚡ Projetos Front 👇</h2>
+
+- [Projeto HTML e CSS](https://visionary-gecko-925eb3.netlify.app/)
 
 
-<h2 align="center"> ⚡ Algumas das Tecnologias que domino</h2>
+- [Projeto React](https://effervescent-malabi-e58d0c.netlify.app/)
+
+
+
+<h2 align="center"> ⚡ Algumas das Tecnologias que domino. 👇</h2>
 
 
 - ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java (versão 17), Java 13, JavaEE, JAX-RS, JBoss/WildFly, Standalone, EJB (Enterprise JavaBeans), Quarkus
@@ -45,10 +53,7 @@ Curioso sobre resolver problemas e organizar o mundo ao meu redor por meio da te
 
 
 
-<h2 align="center"> ⚡ Projetos Front</h2>
 
-- [Projeto HTML e CSS](https://visionary-gecko-925eb3.netlify.app/)
-- [Projeto React](https://effervescent-malabi-e58d0c.netlify.app/)
 
 
 <div align="center">
