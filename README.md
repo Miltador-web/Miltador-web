@@ -25,3 +25,47 @@ Curioso sobre resolver problemas e organizar o mundo ao meu redor por meio da te
 <h2 align="center"> ⚡ Apaixonado por tecnologia!</h2>
 
 
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java (versão 17)
+- ![JavaEE](https://img.icons8.com/color/48/000000/java-eclipse.png) Java Enterprise Edition (JEE)
+- ![Java13](https://img.icons8.com/color/48/000000/java.png) Java 13
+- ![JAX-RS](https://img.icons8.com/color/48/000000/api-settings.png) JAX-RS
+- ![JBoss/WildFly](https://img.icons8.com/color/48/000000/wildfly.png) JBoss/WildFly
+- ![Standalone](https://img.icons8.com/dusk/48/000000/server-rack.png) Standalone
+- ![EJB](https://img.icons8.com/color/48/000000/enterprise-resource-planning.png) EJB (Enterprise JavaBeans)
+- ![Quarkus](https://img.icons8.com/color/48/000000/quarkus.png) Quarkus
+- ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot
+- ![JPA](https://img.icons8.com/color/48/000000/database-restore.png) JPA (Java Persistence API)
+- ![EclipseLink](https://img.icons8.com/officel/48/000000/eclipse.png) EclipseLink
+- ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) PostgreSQL
+- ![Power Automate](https://img.icons8.com/color/48/000000/flow.png) Power Automate
+- ![SonarQube](https://img.icons8.com/color/48/000000/sonar.png) SonarQube
+- ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker
+- ![Maven](https://img.icons8.com/color/48/000000/maven.png) Maven
+- ![Kind](https://img.icons8.com/color/48/000000/cloud.png) Kind (para serviços locais)
+- ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png) Kubernetes (para gerenciamento em cluster)
+- ![Linux](https://img.icons8.com/color/48/000000/linux.png) Sistemas operacionais Linux
+- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
+- ![SQL](https://img.icons8.com/dusk/48/000000/sql.png) SQL
+- ![Power Platform](https://img.icons8.com/color/48/000000/microsoft-power-platform.png) Power Platform
+- ![SharePoint Online](https://img.icons8.com/color/48/000000/sharepoint.png) SharePoint Online
+- ![Microsoft 365](https://img.icons8.com/color/48/000000/microsoft-365.png) Microsoft 365
+- ![Git](https://img.icons8.com/color/48/000000/git.png) Git
+- ![RabbitMQ](https://img.icons8.com/color/48/000000/rabbitmq.png) Rabbit MQ
+- ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS (EC2, S3, ECS)
+- ![SOLID](https://img.icons8.com/color/48/000000/s.png) SOLID
+- ![Design Patterns](https://img.icons8.com/color/48/000000/blueprint.png) Design Patterns
+
+
+
+<h2 align="center"> ⚡ Projetos Front</h2>
+
+[Projeto HTML e CSS](https://visionary-gecko-925eb3.netlify.app/)
+[Projeto React](https://effervescent-malabi-e58d0c.netlify.app/)
+
+
+<div align="center">
+
+</div>
+
+
+
