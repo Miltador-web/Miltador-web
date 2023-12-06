@@ -47,8 +47,8 @@ Curioso sobre resolver problemas e organizar o mundo ao meu redor por meio da te
 
 <h2 align="center"> ⚡ Projetos Front</h2>
 
-[Projeto HTML e CSS](https://visionary-gecko-925eb3.netlify.app/)
-[Projeto React](https://effervescent-malabi-e58d0c.netlify.app/)
+- [Projeto HTML e CSS](https://visionary-gecko-925eb3.netlify.app/)
+- [Projeto React](https://effervescent-malabi-e58d0c.netlify.app/)
 
 
 <div align="center">
