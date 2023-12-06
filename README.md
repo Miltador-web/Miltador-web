@@ -22,7 +22,7 @@ Curioso sobre resolver problemas e organizar o mundo ao meu redor por meio da te
 
 
 
-<h2 align="center"> ⚡ Apaixonado por tecnologia!</h2>
+<h2 align="center"> ⚡ Algumas das Tecnologias que domino</h2>
 
 
 - ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java (versão 17), Java 13, JavaEE, JAX-RS, JBoss/WildFly, Standalone, EJB (Enterprise JavaBeans), Quarkus
@@ -38,7 +38,6 @@ Curioso sobre resolver problemas e organizar o mundo ao meu redor por meio da te
 - ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
 - ![SQL](https://img.icons8.com/dusk/48/000000/sql.png) SQL
 - ![Git](https://img.icons8.com/color/48/000000/git.png) Git
-- ![RabbitMQ](https://img.icons8.com/color/48/000000/rabbitmq.png) Rabbit MQ
 - ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS (EC2, S3, ECS)
 - ![SOLID](https://img.icons8.com/color/48/000000/s.png) SOLID
 - ![Design Patterns](https://img.icons8.com/color/48/000000/blueprint.png) Design Patterns
